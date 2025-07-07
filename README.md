@@ -34,3 +34,9 @@ This script prints "C is fun" a number of times equal to the first argument pass
 - If the argument is not a valid integer, it prints: `Missing number of occurrences`
 - Uses a loop and no `var`
 - Only uses `console.log(...)` twice
+
+This script prints a square of "X" characters with size defined by the first argument.
+
+- If the argument isn't a valid integer, it prints: `Missing size`
+- Uses a loop and string `.repeat()` to build each line
+- No `var` used, only `console.log(...)` for output
