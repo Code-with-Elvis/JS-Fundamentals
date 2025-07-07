@@ -7,3 +7,8 @@ This Node.js script prints the first argument passed to it.
 - Otherwise, it prints the **first argument**
 
 It uses `console.log(...)` for output and avoids both `var` and `.length`.
+
+This Node.js script prints two arguments in the format: <first argument> is <second argument>
+
+- Uses `console.log(...)` for output
+- Does not use `var`
