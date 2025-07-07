@@ -12,3 +12,9 @@ This Node.js script prints two arguments in the format: <first argument> is <sec
 
 - Uses `console.log(...)` for output
 - Does not use `var`
+
+This script prints `My number: <integer>` if the argument is a valid number (floats are truncated).  
+If not, it prints `Not a number`.
+
+- Uses `console.log(...)` only
+- No `var` or `try/catch`
