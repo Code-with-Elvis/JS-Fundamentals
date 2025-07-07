@@ -28,3 +28,9 @@ This script prints 3 predefined lines using an array and a loop:
 - Uses a loop to print
 - No `var` or `if/else`
 - Uses `console.log(...)` only
+
+This script prints "C is fun" a number of times equal to the first argument passed.
+
+- If the argument is not a valid integer, it prints: `Missing number of occurrences`
+- Uses a loop and no `var`
+- Only uses `console.log(...)` twice
