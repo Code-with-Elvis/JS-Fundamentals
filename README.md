@@ -18,3 +18,13 @@ If not, it prints `Not a number`.
 
 - Uses `console.log(...)` only
 - No `var` or `try/catch`
+
+This script prints 3 predefined lines using an array and a loop:
+
+- C is fun
+- Python is cool
+- JavaScript is amazing
+
+- Uses a loop to print
+- No `var` or `if/else`
+- Uses `console.log(...)` only
