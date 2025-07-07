@@ -46,3 +46,10 @@ This script adds two numbers passed as arguments using a defined `add(a, b)` fun
 - Prints `NaN` if one or both arguments are missing or not valid numbers
 - Uses `console.log(...)` for output
 - No use of `var`
+
+This script computes and prints the factorial of an integer using recursion.
+
+- If no valid number is passed, it returns 1 (Factorial of NaN = 1)
+- Uses a recursive function
+- Uses `console.log(...)` for output only
+- No use of `var`
