@@ -40,3 +40,9 @@ This script prints a square of "X" characters with size defined by the first arg
 - If the argument isn't a valid integer, it prints: `Missing size`
 - Uses a loop and string `.repeat()` to build each line
 - No `var` used, only `console.log(...)` for output
+
+This script adds two numbers passed as arguments using a defined `add(a, b)` function.
+
+- Prints `NaN` if one or both arguments are missing or not valid numbers
+- Uses `console.log(...)` for output
+- No use of `var`
